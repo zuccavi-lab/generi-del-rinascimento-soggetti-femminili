@@ -2,7 +2,7 @@
 
 ## DOI
 
-DOI del record su Zenodo
+DOI: 10.5281/zenodo.22680607
 
 ## Descrizione
 Questo progetto analizza un dataframe storico-artistico contentente una serie di quadri italiani. Dopo un'attenta analisi del dataframe mi sono focalizzata in particolare sul movimento del Rinascimento e sulle figure femminili che venivano rappresentate in alcuni generi artisici precisi.
